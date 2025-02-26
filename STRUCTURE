@@ -1,0 +1,33 @@
+BlueStream/
+├── README.md
+├── package.json
+├── .gitignore
+├── vercel.json
+├── public/
+│   ├── index.html
+│   ├── games.html
+│   ├── apps.html
+│   ├── settings.html
+│   └── proxy.html
+├── css/
+│   ├── home.css
+│   ├── games.css
+│   ├── apps.css
+│   ├── settings.css
+│   ├── proxy.css
+│   ├── reset.css
+│   ├── theme.css
+│   └── responsive.css
+├── js/
+│   ├── main.js
+│   ├── animation.js
+│   ├── helper.js
+│   ├── analytics.js
+│   └── config.js
+│   └── custom.js
+├── api/
+│   ├── fetch.js
+│   └── logger.js
+└── assets/
+    ├── logo.png
+    └── background.jpg
