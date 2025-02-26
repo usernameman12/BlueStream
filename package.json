@@ -1,0 +1,12 @@
+{
+    "name": "bluestream",
+    "version": "1.0.0",
+    "description": "A web gateway for games and apps with built-in redirection and dynamic animations.",
+    "main": "index.js",
+    "scripts": {
+      "start": "echo 'No terminal commands needed – deploy on Vercel!'"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
